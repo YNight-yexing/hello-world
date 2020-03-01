@@ -1,2 +1,13 @@
 # hello-world
-This my first study repository
+
+Hello, everyone, and welcome. Thank you so much.
+
+Today, we will teach you a very niubi skill.
+
+That is  ~~~ GitHub!!!
+
+What's this ?
+
+All in all, it's a good thing.
+
+And I love FishC.com!
